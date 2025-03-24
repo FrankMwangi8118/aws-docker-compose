@@ -2,4 +2,4 @@ services:
   backend:
     image: frankmwangi8118/aws-app:latest
     ports:
-      -9090:9090
+      - "9090:9090"
