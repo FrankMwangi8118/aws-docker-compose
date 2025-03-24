@@ -1,0 +1,3 @@
+services:
+  backend:
+    image: frankmwangi8118/aws-app:latest
